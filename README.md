@@ -23,7 +23,7 @@ Zinsta is a powerful Python tool for scraping Instagram accounts, providing deta
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/yourusername/zinsta.git](https://github.com/bimoarifw/zinsta)
+   git clone https://github.com/bimoarifw/zinsta
    cd zinsta
    ```
 
